@@ -1,0 +1,22 @@
+/* Note: It is entirely possible to complete this challenge without creating any classes by using
+only elements (like div, p etc.) and :nth-of-type() pseudo class */
+
+.custom-class {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.custom-class.custom-class2 {
+    font-size: 24px;
+}
+
+#id1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
